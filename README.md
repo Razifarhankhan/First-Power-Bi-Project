@@ -1,4 +1,4 @@
-# Unveiling Employee Attrition Insights: A Power BI Exploration of HR Data
+# Decoding Employee Attrition Patterns: Unveiling HR Insights through Power BI
 
 This is my first Power BI project in which I have utilized a sample HR dataset from a company. The focus of this project was to analyze employee attrition within the organization. I have developed dashboards that showcase the various reasons behind attrition, such as attrition by gender, education level, salary, job role, and experience.
 
